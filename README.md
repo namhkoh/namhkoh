@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Namho! 👋
+### 🔭 I’m currently working on publishing a paper in Augmented Reality and NLP.
+### 🌱 Check out my portfolio : namhokoh.io 
+
 
 <!--
 **namhkoh/namhkoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
