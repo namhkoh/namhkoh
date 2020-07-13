@@ -1,5 +1,5 @@
 ### Hi, I'm Namho! 👋
-### ⚡ Fun fact: I speak 🇫🇷,🇰🇷,🇬🇧 natively.
+### ⚡ Fun fact: I'm a 🇫🇷 🇰🇷 🇬🇧 native speaker.
 ### 🔭 Currently working on co-publishing a paper in Augmented Reality and NLP. (CHI/UBIcomp🤞🏽)
 ### 💻 Linkedin: https://www.linkedin.com/in/namhokoh/
 ### 🌱 Portfolio : namhokoh.io 
