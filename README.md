@@ -1,6 +1,6 @@
 ### Hi, I'm Namho! 👋
 ### ⚡ Fun fact: I'm a 🇫🇷 🇰🇷 🇬🇧 native speaker.
-### 👨🏻‍💻 👾Artificial intelligence Center intern at SRA. 
+### 👨🏻‍💻 Artificial intelligence Center intern at SRA. 
 ### 🔭 Currently working on co-publishing a paper in Augmented Reality and NLP. (CHI/UBIcomp🤞🏽)
 ### 💻 Linkedin: https://www.linkedin.com/in/namhokoh/
 ### 🌱 Portfolio : namhokoh.io 
