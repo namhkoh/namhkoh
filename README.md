@@ -1,7 +1,8 @@
 ### Hi, I'm Namho! 👋
 ### ⚡ Fun fact: I speak 🇫🇷,🇰🇷,🇬🇧 natively.
-### 🔭 I’m currently working on publishing a paper in Augmented Reality and NLP.
-### 🌱 Check out my portfolio : namhokoh.io 
+### 🔭 Currently working on publishing a paper in Augmented Reality and NLP.
+### 💻 Linkedin: https://www.linkedin.com/in/namhokoh/
+### 🌱 Portfolio : namhokoh.io 
 
 
 <!--
