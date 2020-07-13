@@ -1,4 +1,5 @@
 ### Hi, I'm Namho! 👋
+### ⚡ Fun fact: I speak 🇫🇷,🇰🇷,🇬🇧 natively.
 ### 🔭 I’m currently working on publishing a paper in Augmented Reality and NLP.
 ### 🌱 Check out my portfolio : namhokoh.io 
 
