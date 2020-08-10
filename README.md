@@ -1,5 +1,5 @@
 ### 💻 Linkedin: https://www.linkedin.com/in/namhokoh/
-### 🌱 Portfolio : namhokoh.io 
+### 🌱 Portfolio : https://namhokoh.io 
 
 
 <!--
