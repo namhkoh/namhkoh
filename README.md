@@ -2,7 +2,6 @@
 ### 🌱 Portfolio : https://namhokoh.io 
 ![Namho's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh&show_icons=true&theme=radical&hide=contribs,issues&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhkoh&layout=compact)](https://github.com/namhkoh/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
