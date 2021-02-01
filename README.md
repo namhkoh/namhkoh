@@ -4,6 +4,8 @@
 ![Namho's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh&hide=contribs,issues)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhkoh&layout=compact)](https://github.com/namhkoh/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh&show_icons=true&theme=radical)
+
 
 
 
