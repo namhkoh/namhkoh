@@ -2,6 +2,7 @@
 ### 🌱 Portfolio : https://namhokoh.io 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh)](https://github.com/namhkoh/github-readme-stats)
 ![Namho's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
 
 
