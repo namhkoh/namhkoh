@@ -1,5 +1,6 @@
 ### 💻 Linkedin: https://www.linkedin.com/in/namhokoh/
 ### 🌱 Portfolio : https://namhokoh.io 
+[![Namho's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh)](https://github.com/namhkoh/github-readme-stats)
 
 
 <!--
@@ -21,6 +22,4 @@ Here are some ideas to get you started:
 ### ⚡ Fun fact: I'm a 🇫🇷 🇰🇷 🇬🇧 native speaker.
 ### 👨🏻‍💻 Artificial intelligence Center intern at SRA. 
 ### 🔭 Currently working on co-publishing a paper in Augmented Reality and NLP. (CHI/UBIcomp🤞🏽)
-
-### [![Namho's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh)]https://github.com/namhkoh/namhkoh/blob/master/README.md
 -->
