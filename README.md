@@ -1,6 +1,6 @@
 ### 💻 Linkedin: https://www.linkedin.com/in/namhokoh/
 ### 🧠 Portfolio : https://namhokoh.io 
-[![Namho's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh)](https://github.com/namhkoh/github-readme-stats)
+[![Namho's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhkoh&include_all_commits=false)](https://github.com/namhkoh/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhkoh&layout=compact&theme=radical)](https://github.com/namhkoh/github-readme-stats)
 
 
